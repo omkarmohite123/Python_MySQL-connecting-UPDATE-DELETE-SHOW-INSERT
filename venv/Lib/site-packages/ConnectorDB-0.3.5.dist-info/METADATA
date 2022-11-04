@@ -1,0 +1,21 @@
+Metadata-Version: 2.0
+Name: ConnectorDB
+Version: 0.3.5
+Summary: ConnectorDB Python Interface
+Home-page: https://github.com/connectordb/connectordb-python
+Author: ConnectorDB contributors
+Author-email: support@connectordb.com
+License: Apache-2.0
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: jsonschema
+Requires-Dist: requests
+Requires-Dist: websocket-client
+
+UNKNOWN
+
+
